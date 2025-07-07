@@ -1,4 +1,4 @@
-# DESP-AAS Project Management
+# DESP-AAS Moderation
 
 
 ## Table of Contents
@@ -15,15 +15,12 @@
 
 ## Introduction
 
-###  What is the DESP-AAS Collaborative?
-
-
 ### What is the Moderation microservice?
 
 The Moderation microservice is a core component of the DESP-AAS Collaborative platform that handles content moderation and validation. It provides automated and manual review capabilities to ensure content quality, compliance, and safety across the platform.
 
 **Key Features:**
-- **API Integration**: RESTful API endpoints for seamless integration with other microservices
+- **API Integration**: RESTful API endpoints for seamless integration with other microservices and Admin UI
 
 **Use Cases:**
 - Reviewing user-generated content before publication
@@ -42,7 +39,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/acri-st/DESPAAS-moderation.git moderation
+git clone https://github.com/acri-st/moderation.git moderation
 cd moderation
 ```
 
