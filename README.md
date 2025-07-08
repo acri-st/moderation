@@ -1,4 +1,4 @@
-# Collaborative Platform Moderation
+# Moderation
 
 
 ## Table of Contents
@@ -7,17 +7,13 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Development](#development)
-- [Testing](#testing)
 - [Contributing](#contributing)
-- [Deployment](#deployment)
-- [License](#license)
-- [Support](#support)
 
 ## Introduction
 
 ### What is the Moderation microservice?
 
-The Moderation microservice is a core component of the Collaborative platform that handles content moderation and validation. It provides automated and manual review capabilities to ensure content quality, compliance, and safety across the platform.
+The Moderation microservice handles content moderation and validation. It provides manual review capabilities to ensure content quality, compliance, and safety across the platform.
 
 **Key Features:**
 - **API Integration**: RESTful API endpoints for seamless integration with other microservices and Admin UI
